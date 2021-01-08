@@ -1,0 +1,9 @@
+
+Default values : ==>
+mapping_key : tags
+mapping_values : ['environment', 'role']
+excluded_mapping_values : []
+keep_previous : 4
+ami_min_days : -1
+
+Retrieving AMIs to clean ...

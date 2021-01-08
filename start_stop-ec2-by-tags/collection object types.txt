@@ -1,0 +1,8 @@
+on instances collection object:
+all 
+limit 
+filter 
+===========================
+
+'create-tags', 'monitor',  'page_size', 'pages', 'reboot', 'start', 'stop', '
+'terminate', 'unmonitor'
